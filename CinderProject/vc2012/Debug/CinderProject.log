@@ -1,0 +1,14 @@
+﻿Построение начато 20.05.2016 19:21:38.
+     1>Проект "C:\Users\tema9_000\Desktop\CinderProject\vc2012\CinderProject.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\include /I..\..\cinder_0.8.6_vc2012\include /I..\..\cinder_0.8.6_vc2012\boost /ZI /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D NOMINMAX /D _WIN32_WINNT=0x0502 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\CinderProjectApp.cpp
+         CinderProjectApp.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\tema9_000\Desktop\CinderProject\vc2012\Debug\CinderProject.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\..\cinder_0.8.6_vc2012\lib\msw\x86 "cinder-v110_d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCMT /NODEFAULTLIB:LIBCPMT /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\tema9_000\Desktop\CinderProject\vc2012\Debug\CinderProject.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\tema9_000\Desktop\CinderProject\vc2012\Debug\CinderProject.lib" /MACHINE:X86 Debug\Resources.res
+         Debug\CinderProjectApp.obj
+         CinderProject.vcxproj -> C:\Users\tema9_000\Desktop\CinderProject\vc2012\Debug\CinderProject.exe
+     1>Построение проекта "C:\Users\tema9_000\Desktop\CinderProject\vc2012\CinderProject.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:07.33
